@@ -1,0 +1,5 @@
+# Ignore the entire 'dataset' folder
+dataset/
+
+# Ignore a specific Jupyter Notebook file
+amazon-sales-dataset-eda.ipynb
